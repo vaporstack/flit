@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"x"
+			],
+			[
+				"res",
+				"res"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vs/art/flit/src/util/parser.py",
+			"settings":
+			{
+				"buffer_size": 2934,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vs/art/flit/src/engine/tests.lua",
+			"settings":
+			{
+				"buffer_size": 1718,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vs/art/flit/src/engine/validator.lua",
+			"settings":
+			{
+				"buffer_size": 374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vs/art/flit/src/engine/util.lua",
+			"settings":
+			{
+				"buffer_size": 1413,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C99/C99.sublime-build",
+					""
+				],
+				[
+					"Packages/C99/C99.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C99/C99.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Dev/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/AfterEffects/AfterEffectsScripting.sublime-build",
+					""
+				],
+				[
+					"Packages/User/pico8-b.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lua",
+				"Build With: Lua"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"glsl",
+				"Open fragment shader with GLSLViewer"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"packagesync",
+				"PackageSync: Sync Online - Push Settings to Online Sync Folder"
+			],
+			[
+				"packagesy",
+				"PackageSync: Sync Online - Define Online Sync Folder"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 628.0
+	},
+	"console":
+	{
+		"height": 373.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vs/art/flit",
+		"/home/vs/art/flit/data",
+		"/home/vs/art/flit/src",
+		"/home/vs/art/flit/src/engine",
+		"/home/vs/art/flit/src/util"
+	],
+	"file_history":
+	[
+		"/home/vs/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/vs/art/flit/data/test-mystery.txt",
+		"/Users/andrew/art/flit/work/flit",
+		"/Users/andrew/art/r4/apps/wash/src/w_control.c",
+		"/Users/andrew/art/r4/apps/wash/src/widget/w_widget_plugin.c",
+		"/Users/andrew/art/r4/libs/gui/src/g_gui_component.c",
+		"/Users/andrew/art/r4/libs/gui/work/build/gui.build/Debug/gui.build/dgph~",
+		"/Users/andrew/art/r4/apps/rst/work/rst.xcodeproj/project.xcworkspace/xcuserdata/andrew.xcuserdatad/UserInterfaceState.xcuserstate",
+		"/Users/andrew/art/r4/apps/seq/src/seq_control.c",
+		"/Users/andrew/art/r4/apps/wash/src/widget/w_widget_seq.c",
+		"/Users/andrew/art/r4/libs/gui/src/g_gui_colorpick.c",
+		"/Users/andrew/art/r4/libs/gui/src/g_gui_modal.c",
+		"/Users/andrew/art/r4/libs/gui/work/build/gui.build/Debug/gui.build/dgph",
+		"/Users/andrew/ae/themes/Conigs (Paul Conigliaro).theme",
+		"/Volumes/vs-backup/offline/apple-macpro/Users/andrew/Downloads/vs.theme",
+		"/Users/andrew/Downloads/axidraw-standalone_b17/axicli.py",
+		"/Users/andrew/art/r4/apps/wash/src/tool/w_tool_pencil.c",
+		"/Users/andrew/contrib/VLCKit/buildMobileVLCKit.sh",
+		"/Users/andrew/art/r4/apps/color/src/color_c.c",
+		"/Users/andrew/art/r4/apps/wash/src/w_viewer.c",
+		"/Users/andrew/art/r4/build/Debug/rst.app/Contents/MacOS/rst.dSYM/Contents/Resources/DWARF/rst",
+		"/Users/andrew/art/r4/libs/drw/src/r_render.c",
+		"/Users/andrew/art/r4/libs/drw/src/r_render.h",
+		"/Users/andrew/art/r4/libs/drw/work/drw.def",
+		"/Users/andrew/art/r4/libs/drw/work/drw_d.def",
+		"/Users/andrew/art/r4/apps/rst/src/main.c",
+		"/Users/andrew/art/r4/apps/adrift/src/main.c",
+		"/Users/andrew/art/r4/apps/color/src/main.c",
+		"/Users/andrew/art/r4/apps/edit/src/main.c",
+		"/Users/andrew/art/r4/apps/rst/data/wash/cats/ears.wash",
+		"/Users/andrew/art/r4/apps/rst/data/wash/cats/circles.wash",
+		"/Users/andrew/art/r4/apps/wash/src/main.c",
+		"/Users/andrew/art/r4/apps/test/src/main.c",
+		"/Users/andrew/art/r4/apps/status/src/main.c",
+		"/Users/andrew/art/r4/apps/silent/src/main.c",
+		"/Users/andrew/art/r4/apps/serve/src/main.c",
+		"/Users/andrew/art/r4/apps/seq/src/main.c",
+		"/Users/andrew/art/r4/apps/run/src/main.c",
+		"/Users/andrew/art/r4/apps/mtn/src/main.c",
+		"/Users/andrew/art/r4/apps/here/src/main.c",
+		"/Users/andrew/art/r4/apps/graf/src/main.c",
+		"/Users/andrew/art/r4/apps/glfwstub/src/main.c",
+		"/Users/andrew/art/r4/apps/vblit/src/main.c",
+		"/Users/andrew/cats/heads1.wash",
+		"/Users/andrew/art/r4/apps/vblit/src/vblit_control.c",
+		"/Users/andrew/art/r4/apps/vblit/src/viz/v_junk.c",
+		"/Users/andrew/art/r4/build/apps/adrift/adrift",
+		"/Users/andrew/art/r4/build/apps/color/color",
+		"/Users/andrew/art/r4/build/apps/edit/edit",
+		"/Users/andrew/art/r4/build/apps/graf/graf",
+		"/Users/andrew/art/r4/build/apps/mtn/mtn",
+		"/Users/andrew/art/r4/build/apps/rst/rst",
+		"/Users/andrew/art/r4/build/apps/run/run",
+		"/Users/andrew/art/r4/build/apps/run/Debug/run.app/Contents/MacOS/run",
+		"/Users/andrew/art/r4/build/apps/run/Release/run.app/Contents/MacOS/run",
+		"/Users/andrew/art/r4/build/apps/run/Release/run.app.dSYM/Contents/Resources/DWARF/run",
+		"/Users/andrew/art/r4/build/apps/seq/seq",
+		"/Users/andrew/art/r4/build/apps/serve/serve",
+		"/Users/andrew/art/r4/build/apps/silent/silent",
+		"/Users/andrew/art/r4/build/apps/status/status",
+		"/Users/andrew/art/r4/build/apps/test/test",
+		"/Users/andrew/art/r4/build/apps/vblit/vblit",
+		"/Users/andrew/art/r4/build/apps/vblit/Debug/vblit.app/Contents/MacOS/vblit",
+		"/Users/andrew/art/r4/build/apps/vblit/Release/vblit.app/Contents/MacOS/vblit",
+		"/Users/andrew/art/r4/build/apps/vblit/Release/vblit.app.dSYM/Contents/Resources/DWARF/vblit",
+		"/Users/andrew/art/r4/build/apps/wash/wash",
+		"/Users/andrew/art/r4/build/apps/wash/Debug/wash.app/Contents/MacOS/wash",
+		"/Users/andrew/Documents/wash/drawing-desktop-2017_9_8-15_23_5.wash",
+		"/Users/andrew/Documents/wash/drawing-desktop-2017_9_8-15_20_20.wash",
+		"/Users/andrew/art/r4/apps/rst/data/wash/cat_parts-01.wash",
+		"/Users/andrew/art/r4/apps/adrift/src/adrift_control.c",
+		"/Users/andrew/art/r4/apps/here/src/GameViewController.m",
+		"/Users/andrew/art/r4/apps/rst/src/rst_control.c",
+		"/Users/andrew/art/r4/apps/rst/src/rst_game.c",
+		"/Users/andrew/art/r4/apps/run/src/run_controller.c",
+		"/Users/andrew/art/r4/apps/silent/src/silent_control.c",
+		"/Users/andrew/art/r4/apps/status/src/GameViewController.m",
+		"/Users/andrew/art/r4/apps/test/src/test_control.c",
+		"/Users/andrew/art/r4/apps/vblit/src/viz/v_quadtree.c",
+		"/Users/andrew/art/r4/apps/wash/src/plugin/w_plugin_repeat.c",
+		"/Users/andrew/art/r4/apps/wash/src/tool/w_tool_resize.c",
+		"/Users/andrew/art/r4/apps/wash/src/widget/w_widget_playback.c",
+		"/Users/andrew/art/r4/apps/wash/work/wash.xcodeproj/project.xcworkspace/xcuserdata/andrew.xcuserdatad/UserInterfaceState.xcuserstate",
+		"/Users/andrew/art/r4/libs/drw/src/r_hatch.c",
+		"/Users/andrew/art/r4/libs/grdn/src/env/g_area.c",
+		"/Users/andrew/art/r4/libs/gui/src/g_gui.c",
+		"/Users/andrew/art/r4/libs/gui/src/g_gui_menu_radial.c",
+		"/Users/andrew/art/r4/libs/gui/src/widget/g_widget_console.c",
+		"/Users/andrew/art/r4/libs/r4/src/core/b_app.c",
+		"/Users/andrew/art/r4/libs/r4/src/core/b_app_glfw.c",
+		"/Users/andrew/art/r4/libs/r4/src/platform/ios_viewcontroller.m",
+		"/Users/andrew/jams/20171106-agbic/art/drawing-ios-2017_9_7-16_41_25.wash",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/User/clang_format_custom.sublime-settings",
+		"/Users/andrew/art/r4/libs/r4/src/core/b_app.h",
+		"/Users/andrew/jams/20171106-agbic/art/drawing-ios-2017_9_7-16_40_55.wash",
+		"/Users/andrew/Library/Application Support/Sublime Text 3/Packages/Clang Format/clang_format_custom.sublime-settings",
+		"/Users/andrew/art/r4/apps/status/src/status_controller.c",
+		"/Users/andrew/art/r4/build/apps/vblit/vblit.build/Debug/vblit.build/dgph",
+		"/Users/andrew/art/r4/build/apps/vblit/vblit.build/Debug/vblit.build/dgph~",
+		"/Users/andrew/art/r4/libs/grdn/src/scene/g_background.c",
+		"/Users/andrew/art/r4/libs/r4/src/core/b_app_ios.m",
+		"/Users/andrew/art/r4/libs/r4/src/io/r_image_fi.c",
+		"/Users/andrew/art/r4/build/Debug/main.lua",
+		"/Users/vs/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/vs/Library/Application Support/Sublime Text 3/Packages/User/clang_format.sublime-settings",
+		"/Users/vs/art/r4/apps/wash/src/w_control.c",
+		"/Users/vs/Library/Application Support/Sublime Text 3/Packages/User/clang_format_custom.sublime-settings",
+		"/Users/vs/Library/Application Support/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/Users/vs/Library/Application Support/Sublime Text 3/Packages/Clang Format/clang_format_custom.sublime-settings",
+		"/Users/vs/Library/Application Support/Sublime Text 3/Packages/Clang Format/clang_format.sublime-settings",
+		"/Users/andrew/art/r4/apps/vblit/data/obj/vol.mtl",
+		"/Users/andrew/art/r4/apps/vblit/data/obj/vol.obj",
+		"/Users/andrew/art/r4/build/apps/vblit/Debug/vblit.app/Contents/Resources/data/obj/vol.obj",
+		"/home/vs/art/r4/libs/r4/src/r4_config.h",
+		"/home/vs/art/r4/libs/r4/src/input/b_input_monome.c",
+		"/home/vs/contrib/glslViewer/examples/cross.frag",
+		"/home/vs/art/r4/wscript",
+		"/home/vs/art/r4/libs/gui/src/g_gui_notifications.h",
+		"/home/vs/art/r4/libs/vbl/src/time/v_clock.c",
+		"/home/vs/art/r4/apps/vblit/src/vblit_common.c",
+		"/home/vs/art/r4/libs/gui/src/g_gui_modal.h",
+		"/home/vs/art/r4/libs/gui/src/vbl/g_widget_clock.h",
+		"/home/vs/art/r4/libs/gui/src/vbl/g_widget_clock.c",
+		"/home/vs/art/r4/apps/vblit/src/monome.h",
+		"/home/vs/art/r4/apps/vblit/src/monome.c",
+		"/home/vs/art/r4/apps/status/work/status-ios.xcodeproj/project.pbxproj",
+		"/home/vs/art/r4/apps/vblit/src/vblit_common.h",
+		"/home/vs/art/r4/apps/vblit/work/vblit-ios.xcodeproj/project.pbxproj"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"create_link",
+			"))"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vs/art/flit/src/util/parser.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1209,
+								1209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 253.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vs/art/flit/src/engine/tests.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1368.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/vs/art/flit/src/engine/validator.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/vs/art/flit/src/engine/util.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 105.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flit.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"psystem",
+				"libs/grdn/src/particle/g_psystem.c"
+			],
+			[
+				"key",
+				"wash/wash/apps/keyboard_test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 498.0,
+		"last_filter": "r4",
+		"selected_items":
+		[
+			[
+				"r4",
+				"~/art/r4/work/r4.sublime-project"
+			],
+			[
+				"",
+				"~/art/r4/work/r4.sublime-project"
+			],
+			[
+				"system1",
+				"~/work/system1/work/system1.sublime-project"
+			],
+			[
+				"syste",
+				"~/work/system1/work/system1.sublime-project"
+			]
+		],
+		"width": 378.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

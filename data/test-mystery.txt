@@ -1,0 +1,62 @@
+//// begin
+
+<judy01>
+[Judy] doesn't feel so well.
+
+////
+
+Neither does Jim... 
+
+Or so it seems to Judy's brain... "Jim's mood is so strange. I wonder if I shouldn't make him another pot of coffee, he let his morning cup go cold."
+
+She wobbles on her feet, "I sure feel strange today."
+
+On the livingroom couch Jim watches television. Behind him, Judy watches the back of his head. The laughter of a studio audience of some old gameshow has no affect on the very curious scowl on Jim's face.
+
+Slowly approach and [touch Jim], ask [is everything okay?]
+
+Examine the [coffee table].
+
+//// 
+Next to the stale mug of coffee is a [newspaper] that catches Judy's eye.
+
+Brain voice: "What has he been reading? What article put him in this strange mood. He's so distant and miserable. His eyes are bagged and frightening."
+{get toothbrush}
+<coffee_table-01>
+
+
+//// Newspaper
+With a tremble in her hand, Sandra reaches for the newspaper on the coffee table.
+
+His voice startles her. "No. I'm not finished with that."
+{continue}
+
+Retreat to the [bathroom] or [Jim's Office]
+
+
+////bathroom
+"Whatever have I done to make Jim unhappy?"
+
+The bathroom is very tidy, Judy staggers in with a bit of a wobble. She holds the door for balance.
+
+"I just don't feel myself today."
+
+Examine the [trashbin], [bathtub], [mirror].
+
+//// trashbin
+You examine the trashbin.  There's nothing in it.  (Phew!)
+[bathroom]
+
+
+////	bathtub
+EGADS
+[bathroom][investigate bathtub]
+
+////	bathtub
+THIS is a spurious entry to test against having two of the same sanitize_name!
+[bathroom][investigate bathtub]
+
+////	investigate bathtub
+
+OH NOOOOOO
+[bathtub][bathroom ]
